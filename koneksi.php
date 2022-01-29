@@ -2,7 +2,7 @@
     $nama_server = "localhost";
     $username = "root";
     $password = "";
-    $nama_db = "11_perpustakaan_12rpl2";
+    $nama_db = "11_PTSGANJIL2021_XIIRPL2_fadhilahalhadiid";
 
     $koneksi = mysqli_connect($nama_server,$username,$password,$nama_db);
 
